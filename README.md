@@ -1,4 +1,4 @@
-## Hi, I'm Pedro Milano, a Front-end Developer and Teleco Engineer from Brazil.
+## Hi, I'm Pedro Milano, a Front-end Developer and Telecom Engineer from Brazil.
 
 - 🌱 I’m currently learning and improving my knowledge in JS with HMTL5 and CSS3 and Python;
 - My interests are Digital Signal Processing and Front-end;
