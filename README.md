@@ -1,7 +1,6 @@
-## Hi, I'm Pedro Milano, a Front-end Developer and Engineer from Brazil.
+## Hi, I'm Pedro Milano, a Front-end Developer and Telecom Engineer from Brazil.
 
 - 🌱 I’m currently learning React JS; 
-- ⚡️ I have a degree in teleco engineering;
 - My interests are Digital Signal Processing and UI interface
 - Xbox Hardcore player in my spare time;
 - 💬 Ask me about anything, maybe i don't know but i'm always happy to help.
