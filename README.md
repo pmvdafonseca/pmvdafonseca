@@ -1,6 +1,6 @@
 ## Hi, I'm Pedro Milano, a Front-end Developer and Telecom Engineer from Brazil.
 
-- 🌱 I’m currently learning React JS; 
+- 🌱 I’m currently learning and improving my knowledge in JS with HMTL5 and CSS3 and Python;
 - My interests are Digital Signal Processing and Front-end;
 - Xbox Hardcore player in my spare time;
 - 💬 Ask me about anything, maybe i don't know but i'm always happy to help.
