@@ -6,7 +6,7 @@
 - Xbox Hardcore player in my spare time;
 - 💬 Ask me about anything, maybe i don't know but i'm always happy to help.
 
-**Languages:** 
+*****Languages:***** 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,12 +16,12 @@
 
 </div>
 
-**Tools:** 
+*****Tools:*****
 
 <img align="center" alt="pedro-vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <div> 
   
-**Networks/Contact:** 
+*****Networks/Contact:***** 
   
 <a href = "mailto:pedro.milano.vieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-milano-vieira-da-fonseca-a0b583133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
