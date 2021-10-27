@@ -4,7 +4,7 @@
 - ⚡️ I have a degree in teleco engineering;
 - My interests are Digital Signal Processing and UI interface
 - Xbox Hardcore player in my spare time;
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Ask me about anything, maybe i don't know but i'm always happy to help.
 
 **Languages:** 
   
