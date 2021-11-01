@@ -20,6 +20,7 @@
 <div style="display: inline_block">
 <img align="center" alt="pedro-matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
 <img align="center" alt="pedro-vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="pedro-gc" height="30" width="40" src="https://camo.githubusercontent.com/0b93f22ac70b7983e9915edf30ddc1a15713b2c310a214c2996dff49b410b949/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3236373335363138303036343530313736302f3738313937313935303438363239303433322f476f6f676c655f436f6c61626f7261746f72792e737667">
 </div><br>
   
 *****Networks/Contact:***** 
